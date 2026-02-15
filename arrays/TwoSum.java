@@ -1,3 +1,14 @@
+/*
+Problem: Two Sum
+Approach:
+- Use HashMap to store visited numbers
+- Check complement in O(1)
+
+Time Complexity: O(n)
+Space Complexity: O(n)
+*/
+
+
 import java.util.HashMap;
 
 public class TwoSum {
